@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BBK.Auth", "..\BBK.Auth\BBK.Auth.csproj", "{BAC7380D-6D4B-4575-88AE-E968F5D48AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBK.HRMS.API.Auth", "BBK.HRMS.API.Auth\BBK.HRMS.API.Auth.csproj", "{429408DB-6979-49CA-B0FD-58B223176205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC7380D-6D4B-4575-88AE-E968F5D48AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC7380D-6D4B-4575-88AE-E968F5D48AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC7380D-6D4B-4575-88AE-E968F5D48AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC7380D-6D4B-4575-88AE-E968F5D48AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429408DB-6979-49CA-B0FD-58B223176205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429408DB-6979-49CA-B0FD-58B223176205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429408DB-6979-49CA-B0FD-58B223176205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429408DB-6979-49CA-B0FD-58B223176205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {928CFA75-7932-4E18-B5D8-D29E459650A1}
+	EndGlobalSection
+EndGlobal
